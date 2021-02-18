@@ -1,0 +1,33 @@
+{
+    "name": "tplink_monitorar_trafego",
+    "version": "1.0.1",
+    "description": "tplink_monitorar_trafego é uma Ferramenta para monitorar os IPs conectados a um Roteador TP-Link TL-R470T e indica o Tráfego total utilizado por eles, pode ser facilmente adaptado para outros modelos de roteador",
+    "author": "Paloma Macetko <cmacetko@gmail.com>",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/cmacetko/tplink_monitorar_trafego",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cmacetko/tplink_monitorar_trafego"
+    },
+    "bugs": {
+        "url": "https://github.com/cmacetko/tplink_monitorar_trafego/issues"
+    },
+    "keywords": [
+        "tp-link",
+        "tplink",
+        "TL-R470T",
+        "puppeteer",
+        "dhcp",
+        "ips"
+    ],
+    "dependencies": {
+        "puppeteer": "^7.1.0",
+        "system-sleep": "^1.3.7",
+        "filesize": "^6.1.0",
+        "cli-table": "^0.3.4"
+    }
+}
