@@ -31,7 +31,7 @@ node index.js
 
 ## Exemplo de Resultado
 
-![Exemplo](XXXXXXXX "Exemplo")
+![Exemplo](https://github.com/cmacetko/tplink_monitorar_trafego/raw/main/assets/exemplo1.png "Exemplo")
 
 # Contato
 
